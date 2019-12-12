@@ -1,0 +1,19 @@
+{
+  "name": "davidliang2008.github.io",
+  "version": "1.0.0",
+  "description": "GitHub Pages repository for my personal static site / blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidliang2008/davidliang2008.github.io.git"
+  },
+  "author": "David Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidliang2008/davidliang2008.github.io/issues"
+  },
+  "homepage": "https://github.com/davidliang2008/davidliang2008.github.io#readme"
+}
